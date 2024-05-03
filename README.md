@@ -28,3 +28,7 @@ The developed model using Fourier Descriptors obtained from Chain Code has an ac
 ## Conclusion
 
 The results showed that the proposed system could be used in dispensing feeds successfully without human intervention based on the fish requirements[1].
+
+## Reference
+
+https://staff.futminna.edu.ng/EEE/content/journal/PF0504/64.pdf / 10.1109/ACCESS.2020.2994442
